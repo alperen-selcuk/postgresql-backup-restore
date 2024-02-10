@@ -1,8 +1,10 @@
 # postgresql-backup-restore
 
+```
 export POSTGRES_HOST=postgres.domain.com
 export POSTGRES_USER=postgres
 export POSTGRES_DB=postgres
+```
 
 this command backup as dump so you can quikcly restore.
 
